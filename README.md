@@ -1,5 +1,5 @@
 # Template do Google
-Repositório destinado ao teste técnico para vaga de estágio.
+Clone da página inicial do Google.
 
 # Visualização:
 https://lluanagabrieli.github.io/google-template/
